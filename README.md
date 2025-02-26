@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-_ANSWER_:
+
 Software engineering is the discpline which focuses on the design, development, testing, deployment, and maintenance of software systems.it also include applying engineering principles and methods to create high-quality, reliable, and efficient software that meets user needs and business requirements.
 
 Importance of Software Engineering in the Technology Industry  
@@ -20,7 +20,7 @@ Importance of Software Engineering in the Technology Industry
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-_ANSWER_:
+
 1. Better programming languages and compilers improved software performance.
 2. Tools like Git helped teams work together on code.
 3. Enabled faster, more reliable updates and deployments.
@@ -28,7 +28,7 @@ _ANSWER_:
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-_ANSWER_:
+
 The Software Development Life Cycle (SDLC) is a structured process used to design, develop, and test high-quality software. It typically consists of the following phases:
 1. Requirements Gathering and Analysis
 Purpose: Understand what the software needs to do.
@@ -64,7 +64,7 @@ Output: Improved and up-to-date software.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-_ANSWER_:
+
 1. Software Developer
 Main Responsibility: Write and maintain code to build the software.
 Key Tasks:
@@ -89,7 +89,7 @@ Key Tasks:
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-_ANSWER_:
+
 Integrated Development Environments (IDEs) are software applications that provide a comprehensive set of tools for coding, debugging, testing, and deploying software in one place, making development faster and more efficient. Examples of IDEs include Visual Studio for C# and .NET, IntelliJ IDEA for Java and Kotlin, PyCharm for Python, and Eclipse for Java and other languages.
 
 Version Control Systems (VCS) are tools that track changes to code over time, enabling multiple developers to collaborate on the same project while maintaining a history of changes and avoiding conflicts. Examples of VCS include Git (used with platforms like GitHub and GitLab), Subversion (SVN), and Mercurial.
@@ -99,7 +99,7 @@ IDEs provide the tools to write and debug code efficiently, while VCS ensures th
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-_ANSWER_:
+
 1. Tight Deadlines
 Challenge: Unrealistic deadlines can lead to rushed work, poor-quality code, and burnout.
 Strategy: Break projects into smaller tasks with milestones and prioritize them. Use project management tools like Jira or Trello to track progress and adjust timelines as needed.
@@ -119,7 +119,7 @@ Strategy: Use Agile methodologies to accommodate changes flexibly. Regularly com
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-_ANSWER_:
+
 1. Unit Testing:
 Unit testing focuses on testing small, individual parts of the software (like functions or methods) to ensure they work correctly on their own.
 Importance: It helps identify and fix bugs early in the development process, reducing the risk of larger issues later on and saving time and cost in the long run.
@@ -140,7 +140,7 @@ Importance: It ensures that the software aligns with user expectations and is fi
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-_ANSWER_:
+
 Prompt Engineering:
 Prompt engineering is the practice of designing and structuring inputs (prompts) that are given to AI models, like language models, to produce the desired output or behavior. It involves crafting precise and clear instructions or questions to guide the model towards generating relevant, accurate, and useful responses.
 
@@ -150,7 +150,7 @@ Prompt engineering is crucial because the quality of the prompt directly affects
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-_ANSWER_:
+
 Vague Prompt:
 "Tell me about space."
 
