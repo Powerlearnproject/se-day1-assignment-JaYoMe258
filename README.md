@@ -8,10 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 _ANSWER_:
 Software engineering is the discpline which focuses on the design, development, testing, deployment, and maintenance of software systems.it also include applying engineering principles and methods to create high-quality, reliable, and efficient software that meets user needs and business requirements.
 
-
-
 Importance of Software Engineering in the Technology Industry  
-_ANSWER_:
 1. Ensures Quality – It helps create reliable, error-free, and efficient software.  
 2. Improves Efficiency – Speeds up development and reduces costs.  
 3. Drives Innovation – Powers advancements in AI, cybersecurity, and more.  
